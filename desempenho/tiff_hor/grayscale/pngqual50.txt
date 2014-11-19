@@ -1,0 +1,120 @@
+./png.sh *.tif
+**********************************************
+Compressao para arquivos png
+**********************************************
+mkdir: cannot create directory ‘compresspng’: File exists
+50
+convert.im6: unable to open image `../50': No such file or directory @ error/blob.c/OpenBlob/2638.
+convert.im6: no decode delegate for this image format `../50' @ error/constitute.c/ReadImage/544.
+convert.im6: no images defined `50.png' @ error/convert.c/ConvertImageCommand/3044.
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+001.tif
+
+real	0m0.157s
+user	0m0.152s
+sys	0m0.000s
+002.tif
+
+real	0m0.109s
+user	0m0.100s
+sys	0m0.008s
+003.tif
+
+real	0m0.171s
+user	0m0.164s
+sys	0m0.004s
+004.tif
+
+real	0m0.182s
+user	0m0.176s
+sys	0m0.004s
+005.tif
+
+real	0m0.117s
+user	0m0.112s
+sys	0m0.004s
+006.tif
+
+real	0m0.100s
+user	0m0.084s
+sys	0m0.012s
+007.tif
+
+real	0m0.069s
+user	0m0.056s
+sys	0m0.008s
+008.tif
+
+real	0m0.098s
+user	0m0.096s
+sys	0m0.000s
+009.tif
+
+real	0m0.180s
+user	0m0.176s
+sys	0m0.004s
+010.tif
+
+real	0m0.163s
+user	0m0.156s
+sys	0m0.004s
+
+Fim da compressao
+**********************************************
+Descompressao de arquivos png
+**********************************************
+mkdir: cannot create directory ‘decomppng’: File exists
+001.tif
+
+real	0m0.068s
+user	0m0.064s
+sys	0m0.004s
+002.tif
+
+real	0m0.050s
+user	0m0.048s
+sys	0m0.000s
+003.tif
+
+real	0m0.040s
+user	0m0.036s
+sys	0m0.004s
+004.tif
+
+real	0m0.049s
+user	0m0.040s
+sys	0m0.008s
+005.tif
+
+real	0m0.043s
+user	0m0.036s
+sys	0m0.008s
+006.tif
+
+real	0m0.044s
+user	0m0.044s
+sys	0m0.000s
+007.tif
+
+real	0m0.060s
+user	0m0.060s
+sys	0m0.004s
+008.tif
+
+real	0m0.054s
+user	0m0.052s
+sys	0m0.004s
+009.tif
+
+real	0m0.038s
+user	0m0.032s
+sys	0m0.004s
+010.tif
+
+real	0m0.048s
+user	0m0.040s
+sys	0m0.008s
+
